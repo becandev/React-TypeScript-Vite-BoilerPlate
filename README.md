@@ -1,4 +1,4 @@
-# [TypeScript React Vite (SWC) Boilerplate](https://github.com/RomaLetodiani/React-TypeScript-Vite-BoilerPlate)
+# [TypeScript React Vite (SWC) Boilerplate](https://github.com/becandev/React-TypeScript-Vite-BoilerPlate)
 
 This boilerplate offers a solid foundation for crafting modern web applications with TypeScript, React, and Vite. 
 It streamlines the initial setup process, allowing developers to dive straight into coding without the hassle of extensive project configuration.
@@ -70,10 +70,10 @@ project-root/
 To get started with this boilerplate, follow these steps:
 
 1. **Clone the Repository**:
-   - This command clones the repository from the specified URL (`https://github.com/RomaLetodiani/React-TypeScript-Vite-BoilerPlate.git`) to your local machine.
+   - This command clones the repository from the specified URL (`https://github.com/becandev/React-TypeScript-Vite-BoilerPlate.git`) to your local machine.
 
    ```bash
-   git clone https://github.com/RomaLetodiani/React-TypeScript-Vite-BoilerPlate.git
+   git clone https://github.com/becandev/React-TypeScript-Vite-BoilerPlate.git
    ```
 
 2. **Navigate to the Project Directory**:
